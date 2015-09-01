@@ -1,0 +1,7 @@
+{
+  "__ref": "https://github.com/beautify-web/js-beautify#css--html",
+  "indentChar": " ",
+  "indentSize": 4,
+  "selectorSeparatorNewline": 1,
+  "newlineBetweenRules": 1
+}
