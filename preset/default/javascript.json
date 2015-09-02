@@ -1,0 +1,14 @@
+{
+  "__ref": "https://github.com/millermedeiros/esformatter/blob/master/doc/config.md",
+  "indent": {
+    "value": "  "
+  },
+  "lineBreak": {},
+  "plugins": [
+    "esformatter-quotes"
+  ],
+  "quotes": {
+    "type": "single",
+    "avoidEscape": false
+  }
+}
