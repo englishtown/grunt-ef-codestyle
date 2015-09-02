@@ -28,6 +28,7 @@
   ],
   "homepage": "https://github.com/englishtown/grunt-ef-codestyle#readme",
   "dependencies": {
+    "esformatter-quotes": "^1.0.3",
     "grunt": "^0.4.5",
     "grunt-esformatter": "^1.0.1",
     "grunt-jsbeautifier": "^0.2.10",
